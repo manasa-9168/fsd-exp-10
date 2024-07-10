@@ -1,0 +1,13 @@
+create folder open in command prompt
+npm install -g @angular/cli
+ng new prog9
+no
+css(select)
+no
+cd prog9
+ng g c header
+ng g c profile
+ng g c home
+code .
+vs code open copy all folders and in command prompt run
+ng serve
